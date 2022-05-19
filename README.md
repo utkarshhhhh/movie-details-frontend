@@ -49,5 +49,5 @@ Start the server
 ```bash
   npm start
 ```
-Project will start on LocalHost:300
+Project will start on LocalHost:3000
 
