@@ -12,11 +12,6 @@ A simple ReactJS movies app based on TMDb API to demonstrate react-query use cas
 
 To deploy this project run
 
-```bash
-🌎 Live demo: https://react-movie-app-tyagop.netlify.app/ 
-```
-
-
 ## Tech Stack
 
 Reactjs , ReactDOM , HTML , CSS , SwwetAlert2 , Javascript 
