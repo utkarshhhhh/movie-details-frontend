@@ -1,5 +1,5 @@
 
-# Project Title
+# Movie Details
 
 
 A simple ReactJS movies app based on TMDb API to demonstrate react-query use cases as a state management library
